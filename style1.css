@@ -8,7 +8,7 @@
 }
 
 .background{
-    background-image: url("backgraundwpp.png");
+    background-image: url("~/img/backgraundwpp.png");
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -229,7 +229,7 @@ button:hover {
 }
 
 .background-color-habilidades {
-    background-image: url("como-ser-mais-produtiva-no-home-office-mulheres-ceo-1536x1536.jpg");
+    background-image: url("~/img/como-ser-mais-produtiva-no-home-office-mulheres-ceo-1536x1536.jpg");
     opacity: 0.5;
     background-size: cover;
     background-position: center;
